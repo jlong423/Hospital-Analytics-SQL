@@ -2,6 +2,9 @@
 A complete PostgreSQL project that models hospital operations and performs analytical SQL queries on patients, doctors, visits, diagnoses, medications, and prescriptions.
 This project demonstrates real‑world SQL skills including schema design, joins, aggregates, window functions, indexing, and data analysis.
 
+<img width="263" height="187" alt="File shot" src="https://github.com/user-attachments/assets/ebfd9f34-1064-46b7-a7e0-eb7334a67e35" />
+
+
 📘 Overview
 This project simulates a hospital’s relational database and answers practical business questions such as:
 
