@@ -53,7 +53,7 @@ Prescriptions
 Links visits to medications.
 
 📊 Analytical Queries Included
-Your queries.sql file contains 20 real‑world analytics, including:
+queries.sql file contains 20 real‑world analytics, including:
 
 ✔ Doctor Performance
 Total visits per doctor
