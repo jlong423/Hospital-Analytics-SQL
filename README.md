@@ -25,15 +25,15 @@ It’s designed to be portfolio‑ready, easy to run, and easy to extend.
 
 🧱 Database Schema
 The project includes five core tables:
-<img width="755" height="175" alt="patients table" src="https://github.com/user-attachments/assets/85935ad0-19e4-4802-a0ec-886402cac828" />
+<img width="400" height="150" alt="patients table" src="https://github.com/user-attachments/assets/85935ad0-19e4-4802-a0ec-886402cac828" />
 
-<img width="536" height="140" alt="dr table" src="https://github.com/user-attachments/assets/051b9f69-4182-4191-b47d-7c7bef6a5fb4" />
+<img width="400" height="150" alt="dr table" src="https://github.com/user-attachments/assets/051b9f69-4182-4191-b47d-7c7bef6a5fb4" />
 
-<img width="592" height="257" alt="visits table" src="https://github.com/user-attachments/assets/8829b074-6cf3-49c0-8eb0-899b59268f5d" />
+<img width="400" height="150" alt="visits table" src="https://github.com/user-attachments/assets/8829b074-6cf3-49c0-8eb0-899b59268f5d" />
 
-<img width="405" height="115" alt="med table" src="https://github.com/user-attachments/assets/ee640ca8-b604-4b3f-b57b-5cb19cfe15f3" />
+<img width="400" height="150" alt="med table" src="https://github.com/user-attachments/assets/ee640ca8-b604-4b3f-b57b-5cb19cfe15f3" />
 
-<img width="663" height="212" alt="presc table" src="https://github.com/user-attachments/assets/7b1ef581-7693-4acb-a4b3-58cc5b3384fe" />
+<img width="400" height="150" alt="presc table" src="https://github.com/user-attachments/assets/7b1ef581-7693-4acb-a4b3-58cc5b3384fe" />
 
 
 Patients
